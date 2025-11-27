@@ -24,9 +24,15 @@ This guide covers every aspect of construction bookkeeping:
 - **Bonding** - Surety bonds, capacity, and what sureties evaluate
 - **Audit Preparation** - CPA, surety, bank, and insurance audit readiness
 - **Multi-Entity Structures** - Operating company + equipment company setups
+- **Industry-Specific Guides** - Residential, Commercial, and Specialty Trade variations
+- **AIA Forms** - Complete G702/G703 fill-out companion guide
+- **Insurance Tracking** - GL, WC, Auto, and Umbrella compliance management
+- **Material Management** - Inventory, stored materials, and job allocation
+- **Electronic Documents** - Digital signatures, e-lien waivers, paperless workflows
 - **Daily/Weekly/Monthly/Year-End** - Complete operational checklists
 - **GAAP Principles** - Understand the WHY behind every procedure
 - **Troubleshooting** - Common problems and step-by-step solutions
+- **Downloadable Templates** - Job budgets, cash flow, change orders, KPIs, and more
 
 ---
 
@@ -64,6 +70,9 @@ This guide covers every aspect of construction bookkeeping:
 - [Time Tracking & Payroll Integration](./docs/workflows/03-time-tracking-payroll.md) - Labor costing workflows
 - [Equipment Capitalization vs Expensing](./docs/workflows/04-equipment-capitalization.md) - Fixed asset decisions
 - [Prevailing Wage & Certified Payroll](./docs/workflows/05-prevailing-wage-certified-payroll.md) - Government project compliance
+- [Insurance Tracking & Compliance](./docs/workflows/06-insurance-tracking.md) - GL, WC, Auto, Umbrella management
+- [Material Management](./docs/workflows/07-material-management.md) - Inventory, stored materials, and allocation
+- [Electronic Document Workflows](./docs/workflows/08-electronic-documents.md) - Digital signatures and e-lien waivers
 
 ### Compliance & Regulations
 - [Sales & Use Tax for Construction](./docs/compliance/01-sales-use-tax.md) - Tax obligations and exemptions
@@ -72,6 +81,8 @@ This guide covers every aspect of construction bookkeeping:
 
 ### Advanced Topics
 - [Multi-Entity Structures](./docs/advanced/01-multi-entity-structures.md) - Operating + equipment companies
+- [Industry-Specific Guides](./docs/advanced/02-industry-specific-guides.md) - Residential, Commercial, and Specialty Trade variations
+- [AIA Forms Companion Guide](./docs/advanced/03-aia-forms-companion.md) - Complete G702/G703 fill-out guide
 
 ### Reporting & Analysis
 - [Essential Reports](./docs/reporting/01-essential-reports.md) - Job profitability, financials, KPIs, trial balance, general ledger
@@ -97,6 +108,12 @@ This guide covers every aspect of construction bookkeeping:
 - [COA CSV Template (General Contractor)](./templates/construction-coa-general-contractor.csv) - Import directly to QBO
 - [WIP Schedule Template](./templates/wip-schedule-template.md) - Excel/Sheets ready format
 - [Subcontractor Compliance Tracker](./templates/subcontractor-compliance-tracker.md) - Insurance, lien waivers, 1099s
+- [Job Cost Budget Template](./templates/job-cost-budget-template.md) - Detailed project budgeting
+- [13-Week Cash Flow Projection](./templates/13-week-cash-flow-template.md) - Rolling cash flow forecast
+- [Change Order Log Template](./templates/change-order-log-template.md) - Track all contract modifications
+- [Retention Tracker Template](./templates/retention-tracker-template.md) - Manage retention receivable/payable
+- [Equipment Rate Calculator](./templates/equipment-rate-calculator-template.md) - Calculate internal equipment rates
+- [KPI Dashboard Template](./templates/kpi-dashboard-template.md) - Track business performance metrics
 
 ### Resources
 - [Construction Accounting Glossary](./docs/resources/01-glossary.md) - Terms and definitions
@@ -133,6 +150,14 @@ Start at [Chapter 1: Introduction](./docs/01-introduction.md) and work through e
 - **Something broke in QBO?** → [Troubleshooting & FAQ](./docs/reference/13-troubleshooting-faq.md)
 - **Year-end approaching?** → [Year-End Close Checklist](./docs/checklists/13-year-end-close.md)
 - **Daily tasks checklist?** → [Daily & Weekly Checklists](./docs/checklists/12-daily-weekly-checklists.md)
+- **Residential vs. Commercial?** → [Industry-Specific Guides](./docs/advanced/02-industry-specific-guides.md)
+- **AIA form help?** → [AIA Forms Companion Guide](./docs/advanced/03-aia-forms-companion.md)
+- **Sub insurance expired?** → [Insurance Tracking & Compliance](./docs/workflows/06-insurance-tracking.md)
+- **Material tracking?** → [Material Management](./docs/workflows/07-material-management.md)
+- **Going paperless?** → [Electronic Document Workflows](./docs/workflows/08-electronic-documents.md)
+- **Need KPI dashboard?** → [KPI Dashboard Template](./templates/kpi-dashboard-template.md)
+- **Job budget template?** → [Job Cost Budget Template](./templates/job-cost-budget-template.md)
+- **Equipment rates?** → [Equipment Rate Calculator](./templates/equipment-rate-calculator-template.md)
 
 ---
 
