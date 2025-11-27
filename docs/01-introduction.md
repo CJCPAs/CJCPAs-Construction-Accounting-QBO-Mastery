@@ -4,6 +4,8 @@
 
 This guide is designed to transform you from a construction bookkeeping novice into a confident professional who understands not just *how* to do things in QuickBooks Online, but *why* each process matters for your construction business's financial health.
 
+> ⚠️ **Disclaimer**: This guide is for informational and educational purposes only and does not constitute professional accounting, tax, or legal advice. Please consult with a qualified CPA or professional advisor before implementing any accounting practices. See full disclaimer in the [README](../README.md#%EF%B8%8F-important-disclaimer).
+
 ---
 
 ## Table of Contents
