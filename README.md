@@ -26,6 +26,13 @@ This guide covers every aspect of construction bookkeeping:
 1. [Introduction](./docs/01-introduction.md) - Why construction accounting is different
 2. [Getting Started with QBO](./docs/02-getting-started.md) - Essential setup and configuration
 
+### QBO Basics (NEW!)
+- [Connecting Bank Accounts](./docs/basics/01-connecting-bank-accounts.md) - Step-by-step bank linking and feeds
+- [Connecting Credit Cards](./docs/basics/02-connecting-credit-cards.md) - Credit card setup and management
+- [Recording Transactions](./docs/basics/03-recording-transactions.md) - Bills, invoices, payments, and journal entries
+- [Vendor Setup & AP Management](./docs/basics/04-vendor-setup-ap.md) - Complete vendor and AP workflows
+- [Invoice Tie-Out & Reconciliation](./docs/basics/05-invoice-tieout.md) - Matching invoices to pay apps
+
 ### Core Tutorials
 3. [Job Costing Setup](./docs/tutorials/03-job-costing-setup.md) - Track every dollar by project
 4. [WIP Schedules](./docs/tutorials/04-wip-schedules.md) - Percentage-of-completion and over/under billing
@@ -48,6 +55,9 @@ This guide covers every aspect of construction bookkeeping:
 Start at [Chapter 1: Introduction](./docs/01-introduction.md) and work through each chapter in order.
 
 ### For Specific Problems
+- **Need to connect bank accounts?** → [Connecting Bank Accounts](./docs/basics/01-connecting-bank-accounts.md)
+- **Setting up vendors for jobs?** → [Vendor Setup & AP Management](./docs/basics/04-vendor-setup-ap.md)
+- **Tying out invoices to pay apps?** → [Invoice Tie-Out & Reconciliation](./docs/basics/05-invoice-tieout.md)
 - **Job profitability unknown?** → [Job Costing Setup](./docs/tutorials/03-job-costing-setup.md)
 - **Bank wants WIP schedule?** → [WIP Schedules](./docs/tutorials/04-wip-schedules.md)
 - **Retention tracking chaos?** → [Retention Tracking](./docs/tutorials/06-retention-tracking.md)

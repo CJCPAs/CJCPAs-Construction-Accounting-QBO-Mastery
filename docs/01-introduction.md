@@ -10,12 +10,23 @@ This guide is designed to transform you from a construction bookkeeping novice i
 
 1. [Introduction (You Are Here)](#introduction-to-construction-bookkeeping-in-quickbooks-online)
 2. [Getting Started with QBO for Construction](./02-getting-started.md)
+
+### QBO Basics
+- [Connecting Bank Accounts](./basics/01-connecting-bank-accounts.md)
+- [Connecting Credit Cards](./basics/02-connecting-credit-cards.md)
+- [Recording Transactions](./basics/03-recording-transactions.md)
+- [Vendor Setup & AP Management](./basics/04-vendor-setup-ap.md)
+- [Invoice Tie-Out & Reconciliation](./basics/05-invoice-tieout.md)
+
+### Core Tutorials
 3. [Job Costing Setup](./tutorials/03-job-costing-setup.md)
 4. [WIP Schedules & Percentage-of-Completion](./tutorials/04-wip-schedules.md)
 5. [Progress Billing & Applications for Payment](./tutorials/05-progress-billing.md)
 6. [Retention Tracking](./tutorials/06-retention-tracking.md)
 7. [Equipment Allocation](./tutorials/07-equipment-allocation.md)
 8. [Change Order Management](./tutorials/08-change-orders.md)
+
+### Templates & Reference
 9. [Chart of Accounts Templates](./templates/09-chart-of-accounts.md)
 10. [Common Mistakes to Avoid](./reference/10-common-mistakes.md)
 11. [Month-End Close Checklist](./checklists/11-month-end-close.md)
