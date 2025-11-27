@@ -16,6 +16,10 @@ This guide covers every aspect of construction bookkeeping:
 - **Retention Tracking** - Manage retainage receivable and payable
 - **Equipment Allocation** - Charge owned equipment to jobs properly
 - **Change Orders** - Track approved, pending, and disputed changes
+- **Prevailing Wage** - Certified payroll and government project compliance
+- **Sales & Use Tax** - Construction tax obligations by state
+- **Bonding** - Surety bonds, capacity, and what sureties evaluate
+- **Multi-Entity Structures** - Operating company + equipment company setups
 - **GAAP Principles** - Understand the WHY behind every procedure
 
 ---
@@ -50,6 +54,14 @@ This guide covers every aspect of construction bookkeeping:
 - [Subcontractor Management, 1099s & Lien Waivers](./docs/workflows/02-subcontractor-1099-lien-waivers.md) - Complete sub compliance
 - [Time Tracking & Payroll Integration](./docs/workflows/03-time-tracking-payroll.md) - Labor costing workflows
 - [Equipment Capitalization vs Expensing](./docs/workflows/04-equipment-capitalization.md) - Fixed asset decisions
+- [Prevailing Wage & Certified Payroll](./docs/workflows/05-prevailing-wage-certified-payroll.md) - Government project compliance
+
+### Compliance & Regulations
+- [Sales & Use Tax for Construction](./docs/compliance/01-sales-use-tax.md) - Tax obligations and exemptions
+- [Bonding Requirements](./docs/compliance/02-bonding-requirements.md) - Surety bonds and capacity
+
+### Advanced Topics
+- [Multi-Entity Structures](./docs/advanced/01-multi-entity-structures.md) - Operating + equipment companies
 
 ### Reporting & Analysis
 - [Essential Reports](./docs/reporting/01-essential-reports.md) - Job profitability, financials, KPIs, trial balance, general ledger
@@ -65,6 +77,11 @@ This guide covers every aspect of construction bookkeeping:
 10. [Common Mistakes](./docs/reference/10-common-mistakes.md) - Learn from others' errors (22 frequent errors!)
 11. [Month-End Close Checklist](./docs/checklists/11-month-end-close.md) - 10-day close calendar
 12. [GAAP Principles Reference](./docs/reference/12-gaap-principles.md) - ASC 606, matching principle explained
+
+### Downloadable Templates
+- [COA CSV Template (General Contractor)](./templates/construction-coa-general-contractor.csv) - Import directly to QBO
+- [WIP Schedule Template](./templates/wip-schedule-template.md) - Excel/Sheets ready format
+- [Subcontractor Compliance Tracker](./templates/subcontractor-compliance-tracker.md) - Insurance, lien waivers, 1099s
 
 ### Resources
 - [Construction Accounting Glossary](./docs/resources/01-glossary.md) - Terms and definitions
@@ -90,6 +107,10 @@ Start at [Chapter 1: Introduction](./docs/01-introduction.md) and work through e
 ### For Quick Reference
 - **Chart of Accounts template?** → [COA Templates](./docs/templates/09-chart-of-accounts.md)
 - **GAAP questions?** → [GAAP Principles Reference](./docs/reference/12-gaap-principles.md)
+- **Prevailing wage project?** → [Prevailing Wage & Certified Payroll](./docs/workflows/05-prevailing-wage-certified-payroll.md)
+- **Sales tax confusion?** → [Sales & Use Tax](./docs/compliance/01-sales-use-tax.md)
+- **Need bonding help?** → [Bonding Requirements](./docs/compliance/02-bonding-requirements.md)
+- **Multiple entities?** → [Multi-Entity Structures](./docs/advanced/01-multi-entity-structures.md)
 
 ---
 

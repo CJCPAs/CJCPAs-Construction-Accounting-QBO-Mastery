@@ -1,0 +1,156 @@
+Account Name,Account Type,Detail Type,Account Number,Description
+Checking - Operating,Bank,Checking,10000,Primary operating checking account
+Checking - Payroll,Bank,Checking,10100,Dedicated payroll account
+Savings - Reserve,Bank,Savings,10200,Cash reserve account
+Money Market,Bank,Money Market,10300,Money market account
+Petty Cash,Bank,Cash on hand,10500,Petty cash fund
+Accounts Receivable,Accounts Receivable,Accounts Receivable,11000,Trade receivables
+Retention Receivable,Other Current Assets,Other Current Assets,11200,Retention held by customers
+Allowance for Doubtful Accounts,Other Current Assets,Allowance for Bad Debts,11500,Reserve for uncollectible AR
+Inventory - Materials,Other Current Assets,Inventory,12000,Materials inventory
+Costs in Excess of Billings,Other Current Assets,Other Current Assets,12500,Under-billing - WIP asset
+Employee Advances,Other Current Assets,Employee Cash Advances,12600,Advances to employees
+Prepaid Insurance,Other Current Assets,Prepaid Expenses,12710,Prepaid insurance premiums
+Prepaid Rent,Other Current Assets,Prepaid Expenses,12720,Prepaid rent
+Prepaid Other,Other Current Assets,Prepaid Expenses,12730,Other prepaid expenses
+Deposits,Other Current Assets,Other Current Assets,12800,Security and other deposits
+Land,Fixed Assets,Land,15000,Land owned
+Buildings,Fixed Assets,Buildings,15100,Buildings owned
+Accumulated Depreciation - Buildings,Fixed Assets,Accumulated Depreciation,15150,Accumulated depreciation - buildings
+Leasehold Improvements,Fixed Assets,Leasehold Improvements,15200,Leasehold improvements
+Accumulated Depreciation - Leasehold,Fixed Assets,Accumulated Depreciation,15250,Accumulated depreciation - leasehold
+Vehicles,Fixed Assets,Vehicles,15300,Company vehicles
+Accumulated Depreciation - Vehicles,Fixed Assets,Accumulated Depreciation,15350,Accumulated depreciation - vehicles
+Equipment - Heavy,Fixed Assets,Machinery & Equipment,15400,Heavy construction equipment
+Accumulated Depreciation - Heavy Equipment,Fixed Assets,Accumulated Depreciation,15450,Accumulated depreciation - heavy equipment
+Equipment - Small Tools,Fixed Assets,Machinery & Equipment,15500,Small tools and equipment
+Accumulated Depreciation - Small Equipment,Fixed Assets,Accumulated Depreciation,15550,Accumulated depreciation - small equipment
+Furniture & Fixtures,Fixed Assets,Furniture & Fixtures,15600,Office furniture and fixtures
+Accumulated Depreciation - F&F,Fixed Assets,Accumulated Depreciation,15650,Accumulated depreciation - furniture
+Security Deposits,Other Assets,Other Long-term Assets,18000,Long-term security deposits
+Accounts Payable,Accounts Payable,Accounts Payable,20000,Trade payables
+Retention Payable,Other Current Liabilities,Other Current Liabilities,20200,Retention owed to subcontractors
+Credit Cards Payable,Credit Card,Credit Card,21000,Credit card balances
+Accrued Wages,Other Current Liabilities,Other Current Liabilities,22100,Wages owed but not yet paid
+Accrued Payroll Taxes,Other Current Liabilities,Other Current Liabilities,22200,Payroll taxes payable
+Accrued Vacation,Other Current Liabilities,Other Current Liabilities,22300,Vacation liability
+Accrued Interest,Other Current Liabilities,Other Current Liabilities,22400,Interest payable
+Federal Withholding Payable,Other Current Liabilities,Other Current Liabilities,23100,Federal income tax withheld
+State Withholding Payable,Other Current Liabilities,Other Current Liabilities,23200,State income tax withheld
+FICA Payable,Other Current Liabilities,Other Current Liabilities,23300,Social security and medicare payable
+401k Payable,Other Current Liabilities,Other Current Liabilities,23400,401k contributions payable
+Sales Tax Payable,Other Current Liabilities,Sales Tax Payable,24000,Sales tax collected
+Billings in Excess of Costs,Other Current Liabilities,Other Current Liabilities,24500,Over-billing - WIP liability
+Current Portion - Long Term Debt,Other Current Liabilities,Current Portion of Long-term Debt,25000,Current portion of long-term debt
+Note Payable - Line of Credit,Long Term Liabilities,Notes Payable,27100,Bank line of credit
+Note Payable - Term Loan,Long Term Liabilities,Notes Payable,27200,Bank term loan
+Note Payable - Vehicle Loans,Long Term Liabilities,Notes Payable,27300,Vehicle loan balances
+Note Payable - Equipment Loans,Long Term Liabilities,Notes Payable,27400,Equipment loan balances
+Owner's Capital,Equity,Owner's Equity,30000,Owner's capital account
+Additional Paid-In Capital,Equity,Paid-In Capital or Surplus,30500,Additional capital contributions
+Owner's Draw,Equity,Owner's Equity,31000,Owner distributions
+Retained Earnings,Equity,Retained Earnings,32000,Accumulated earnings
+Contract Revenue,Income,Service/Fee Income,40000,Contract revenue - general
+Labor Revenue,Income,Service/Fee Income,40100,Contract revenue - labor component
+Materials Revenue,Income,Service/Fee Income,40200,Contract revenue - materials component
+Subcontractor Revenue,Income,Service/Fee Income,40300,Contract revenue - subcontractor component
+Equipment Revenue,Income,Service/Fee Income,40400,Contract revenue - equipment component
+Other Contract Revenue,Income,Service/Fee Income,40500,Contract revenue - other
+Change Order Revenue,Income,Service/Fee Income,40600,Approved change order revenue
+Service Revenue,Income,Service/Fee Income,41000,Non-contract service revenue
+T&M Revenue,Income,Service/Fee Income,42000,Time and materials revenue
+Equipment Rental Income,Other Income,Other Miscellaneous Income,45100,Income from equipment rental
+Scrap Sales,Other Income,Other Miscellaneous Income,45200,Scrap and salvage sales
+Rebates and Discounts,Other Income,Other Miscellaneous Income,45300,Vendor rebates and discounts
+Miscellaneous Income,Other Income,Other Miscellaneous Income,45400,Other miscellaneous income
+Direct Labor - Regular,Cost of Goods Sold,Supplies & Materials - COGS,50110,Direct labor - regular hours
+Direct Labor - Overtime,Cost of Goods Sold,Supplies & Materials - COGS,50120,Direct labor - overtime hours
+Direct Labor - Premium,Cost of Goods Sold,Supplies & Materials - COGS,50130,Direct labor - premium/holiday pay
+Payroll Taxes - Direct,Cost of Goods Sold,Supplies & Materials - COGS,50200,Employer payroll taxes - direct labor
+Workers Comp - Direct,Cost of Goods Sold,Supplies & Materials - COGS,50300,Workers compensation - direct labor
+Benefits - Direct,Cost of Goods Sold,Supplies & Materials - COGS,50400,Employee benefits - direct labor
+Union Dues and Fringes,Cost of Goods Sold,Supplies & Materials - COGS,50500,Union dues and fringe payments
+Materials - Lumber and Framing,Cost of Goods Sold,Supplies & Materials - COGS,51100,Lumber and framing materials
+Materials - Concrete and Masonry,Cost of Goods Sold,Supplies & Materials - COGS,51200,Concrete and masonry materials
+Materials - Electrical,Cost of Goods Sold,Supplies & Materials - COGS,51300,Electrical materials
+Materials - Plumbing,Cost of Goods Sold,Supplies & Materials - COGS,51400,Plumbing materials
+Materials - HVAC,Cost of Goods Sold,Supplies & Materials - COGS,51500,HVAC materials
+Materials - Roofing,Cost of Goods Sold,Supplies & Materials - COGS,51600,Roofing materials
+Materials - Finishes and Trim,Cost of Goods Sold,Supplies & Materials - COGS,51700,Finish and trim materials
+Materials - Hardware and Fasteners,Cost of Goods Sold,Supplies & Materials - COGS,51800,Hardware and fasteners
+Materials - Other,Cost of Goods Sold,Supplies & Materials - COGS,51900,Other materials
+Sub - Excavation and Sitework,Cost of Goods Sold,Supplies & Materials - COGS,52100,Subcontractor - excavation/sitework
+Sub - Concrete,Cost of Goods Sold,Supplies & Materials - COGS,52200,Subcontractor - concrete
+Sub - Steel and Structural,Cost of Goods Sold,Supplies & Materials - COGS,52300,Subcontractor - steel/structural
+Sub - Framing,Cost of Goods Sold,Supplies & Materials - COGS,52400,Subcontractor - framing
+Sub - Roofing,Cost of Goods Sold,Supplies & Materials - COGS,52500,Subcontractor - roofing
+Sub - Electrical,Cost of Goods Sold,Supplies & Materials - COGS,52600,Subcontractor - electrical
+Sub - Plumbing,Cost of Goods Sold,Supplies & Materials - COGS,52700,Subcontractor - plumbing
+Sub - HVAC,Cost of Goods Sold,Supplies & Materials - COGS,52800,Subcontractor - HVAC
+Sub - Drywall,Cost of Goods Sold,Supplies & Materials - COGS,52900,Subcontractor - drywall
+Sub - Painting,Cost of Goods Sold,Supplies & Materials - COGS,53000,Subcontractor - painting
+Sub - Flooring,Cost of Goods Sold,Supplies & Materials - COGS,53100,Subcontractor - flooring
+Sub - Landscaping,Cost of Goods Sold,Supplies & Materials - COGS,53200,Subcontractor - landscaping
+Sub - Other Trades,Cost of Goods Sold,Supplies & Materials - COGS,53300,Subcontractor - other trades
+Equipment - Owned Charges,Cost of Goods Sold,Supplies & Materials - COGS,54100,Internal equipment charges to jobs
+Equipment - Rental,Cost of Goods Sold,Supplies & Materials - COGS,54200,Rented equipment costs
+Equipment - Fuel (Job),Cost of Goods Sold,Supplies & Materials - COGS,54300,Job site fuel costs
+Small Tools - Job,Cost of Goods Sold,Supplies & Materials - COGS,54400,Small tools charged to jobs
+Permits and Fees,Cost of Goods Sold,Supplies & Materials - COGS,55100,Building permits and fees
+Testing and Inspection,Cost of Goods Sold,Supplies & Materials - COGS,55200,Testing and inspection costs
+Job Site Utilities,Cost of Goods Sold,Supplies & Materials - COGS,55300,Temporary utilities at job site
+Job Site Security,Cost of Goods Sold,Supplies & Materials - COGS,55400,Security costs at job site
+Bonds - Job Specific,Cost of Goods Sold,Supplies & Materials - COGS,55500,Job-specific bond premiums
+Insurance - Job Specific,Cost of Goods Sold,Supplies & Materials - COGS,55600,Job-specific insurance
+Temporary Facilities,Cost of Goods Sold,Supplies & Materials - COGS,55700,Temporary job site facilities
+Safety Equipment,Cost of Goods Sold,Supplies & Materials - COGS,55800,Safety equipment and supplies
+Miscellaneous Direct Costs,Cost of Goods Sold,Supplies & Materials - COGS,55900,Other direct job costs
+Salaries - Officers,Expenses,Payroll Expenses,60100,Officer salaries
+Salaries - Office Staff,Expenses,Payroll Expenses,60200,Office staff salaries
+Salaries - Estimating,Expenses,Payroll Expenses,60300,Estimating department salaries
+Salaries - Project Management,Expenses,Payroll Expenses,60400,Project management salaries
+Payroll Taxes - Overhead,Expenses,Payroll Expenses,60500,Employer payroll taxes - overhead
+Benefits - Overhead,Expenses,Payroll Expenses,60600,Employee benefits - overhead
+Workers Comp - Overhead,Expenses,Payroll Expenses,60700,Workers compensation - overhead
+Rent - Office,Expenses,Rent or Lease of Buildings,61100,Office rent
+Rent - Shop and Yard,Expenses,Rent or Lease of Buildings,61200,Shop and yard rent
+Utilities,Expenses,Utilities,61300,Utilities expense
+Property Taxes,Expenses,Taxes Paid,61400,Property tax expense
+Repairs and Maintenance - Building,Expenses,Repair & Maintenance,61500,Building repairs and maintenance
+Janitorial and Cleaning,Expenses,Repair & Maintenance,61600,Cleaning and janitorial services
+Vehicle Expenses,Expenses,Auto,62100,Vehicle operating expenses
+Fuel - Non-Job,Expenses,Auto,62200,Non-job fuel costs
+Vehicle Repairs and Maintenance,Expenses,Auto,62300,Vehicle repairs and maintenance
+Equipment Maintenance - Shop,Expenses,Repair & Maintenance,62400,Shop equipment maintenance
+Depreciation - Vehicles,Expenses,Depreciation,62500,Vehicle depreciation expense
+Depreciation - Equipment,Expenses,Depreciation,62600,Equipment depreciation expense
+Office Supplies,Expenses,Office/General Administrative Expenses,63100,Office supplies
+Postage and Shipping,Expenses,Office/General Administrative Expenses,63200,Postage and shipping costs
+Telephone and Internet,Expenses,Office/General Administrative Expenses,63300,Phone and internet service
+Software and Subscriptions,Expenses,Office/General Administrative Expenses,63400,Software and subscription costs
+Printing and Reproduction,Expenses,Office/General Administrative Expenses,63500,Printing and copying costs
+Bank Charges,Expenses,Bank Charges,63600,Bank service charges
+Dues and Memberships,Expenses,Office/General Administrative Expenses,63700,Professional dues and memberships
+Licenses - Business,Expenses,Licenses,63800,Business license fees
+Training and Education,Expenses,Office/General Administrative Expenses,63900,Training and education costs
+General Liability Insurance,Expenses,Insurance,64100,General liability insurance
+Auto Insurance,Expenses,Insurance,64200,Vehicle insurance
+Umbrella Insurance,Expenses,Insurance,64300,Umbrella liability insurance
+Professional Liability,Expenses,Insurance,64400,Professional liability insurance
+Bonding Premiums,Expenses,Insurance,64500,Surety bond premiums
+Accounting and Bookkeeping,Expenses,Legal & Professional Fees,65100,Accounting and bookkeeping fees
+Legal Fees,Expenses,Legal & Professional Fees,65200,Legal fees
+Consulting,Expenses,Legal & Professional Fees,65300,Consulting fees
+IT Services,Expenses,Legal & Professional Fees,65400,IT service fees
+Advertising,Expenses,Advertising/Promotional,66100,Advertising expense
+Website,Expenses,Advertising/Promotional,66200,Website costs
+Signage,Expenses,Advertising/Promotional,66300,Signage and graphics
+Trade Shows,Expenses,Advertising/Promotional,66400,Trade show costs
+Entertainment - Business Development,Expenses,Entertainment,66500,Business development entertainment
+Sponsorships and Donations,Expenses,Charitable Contributions,66600,Sponsorships and charitable donations
+Bad Debt Expense,Expenses,Bad Debts,67100,Bad debt expense
+Penalties and Fines,Expenses,Penalties & Settlements,67200,Penalties and fines
+Miscellaneous Expense,Expenses,Other Miscellaneous Expense,67500,Other miscellaneous expenses
+Interest Income,Other Income,Interest Earned,70000,Interest earned
+Interest Expense,Other Expense,Other Miscellaneous Expense,70500,Interest paid
+Gain Loss on Asset Disposal,Other Income,Other Miscellaneous Income,71000,Gain or loss on asset sales
