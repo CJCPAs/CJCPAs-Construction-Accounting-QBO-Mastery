@@ -16,11 +16,17 @@ This guide covers every aspect of construction bookkeeping:
 - **Retention Tracking** - Manage retainage receivable and payable
 - **Equipment Allocation** - Charge owned equipment to jobs properly
 - **Change Orders** - Track approved, pending, and disputed changes
+- **Contract Types** - T&M, Cost-Plus, GMP, and Unit Price contract handling
+- **Cash Flow Forecasting** - 13-week rolling forecasts to prevent cash crises
+- **Budget vs. Actual** - Job cost variance analysis and corrective action
 - **Prevailing Wage** - Certified payroll and government project compliance
 - **Sales & Use Tax** - Construction tax obligations by state
 - **Bonding** - Surety bonds, capacity, and what sureties evaluate
+- **Audit Preparation** - CPA, surety, bank, and insurance audit readiness
 - **Multi-Entity Structures** - Operating company + equipment company setups
+- **Daily/Weekly/Monthly/Year-End** - Complete operational checklists
 - **GAAP Principles** - Understand the WHY behind every procedure
+- **Troubleshooting** - Common problems and step-by-step solutions
 
 ---
 
@@ -48,6 +54,9 @@ This guide covers every aspect of construction bookkeeping:
 6. [Retention Tracking](./docs/tutorials/06-retention-tracking.md) - Manage retention receivable and payable
 7. [Equipment Allocation](./docs/tutorials/07-equipment-allocation.md) - Internal equipment charges to jobs
 8. [Change Order Management](./docs/tutorials/08-change-orders.md) - Track contract modifications
+9. [Contract Types Deep Dive](./docs/tutorials/09-contract-types.md) - T&M, Cost-Plus, GMP, and Unit Price contracts
+10. [Cash Flow Forecasting](./docs/tutorials/10-cash-flow-forecasting.md) - 13-week rolling cash flow management
+11. [Budget vs. Actual Reporting](./docs/tutorials/11-budget-vs-actual.md) - Job cost variance analysis
 
 ### Transactions & Workflows
 - [Purchase Orders & Three-Way Matching](./docs/workflows/01-purchase-orders.md) - PO workflows and verification
@@ -59,6 +68,7 @@ This guide covers every aspect of construction bookkeeping:
 ### Compliance & Regulations
 - [Sales & Use Tax for Construction](./docs/compliance/01-sales-use-tax.md) - Tax obligations and exemptions
 - [Bonding Requirements](./docs/compliance/02-bonding-requirements.md) - Surety bonds and capacity
+- [Audit Preparation Guide](./docs/compliance/03-audit-preparation.md) - CPA, surety, bank, and insurance audits
 
 ### Advanced Topics
 - [Multi-Entity Structures](./docs/advanced/01-multi-entity-structures.md) - Operating + equipment companies
@@ -72,11 +82,16 @@ This guide covers every aspect of construction bookkeeping:
 ### Security, Roles & Audit
 - [User Roles & Permissions](./docs/security/01-user-roles-permissions.md) - Access controls and audit trail
 
+### Checklists & Operational Guides
+- [Month-End Close Checklist](./docs/checklists/11-month-end-close.md) - 10-day close calendar
+- [Daily & Weekly Checklists](./docs/checklists/12-daily-weekly-checklists.md) - Operational routines for bookkeepers and office managers
+- [Year-End Close Checklist](./docs/checklists/13-year-end-close.md) - Complete year-end process with 1099s, W-2s, and CPA prep
+
 ### Templates & Reference
 9. [Chart of Accounts Templates](./docs/templates/09-chart-of-accounts.md) - Ready-to-use COA structures
 10. [Common Mistakes](./docs/reference/10-common-mistakes.md) - Learn from others' errors (22 frequent errors!)
-11. [Month-End Close Checklist](./docs/checklists/11-month-end-close.md) - 10-day close calendar
 12. [GAAP Principles Reference](./docs/reference/12-gaap-principles.md) - ASC 606, matching principle explained
+13. [Troubleshooting & FAQ](./docs/reference/13-troubleshooting-faq.md) - Common problems and solutions
 
 ### Downloadable Templates
 - [COA CSV Template (General Contractor)](./templates/construction-coa-general-contractor.csv) - Import directly to QBO
@@ -111,6 +126,13 @@ Start at [Chapter 1: Introduction](./docs/01-introduction.md) and work through e
 - **Sales tax confusion?** → [Sales & Use Tax](./docs/compliance/01-sales-use-tax.md)
 - **Need bonding help?** → [Bonding Requirements](./docs/compliance/02-bonding-requirements.md)
 - **Multiple entities?** → [Multi-Entity Structures](./docs/advanced/01-multi-entity-structures.md)
+- **T&M or Cost-Plus contract?** → [Contract Types Deep Dive](./docs/tutorials/09-contract-types.md)
+- **Cash flow problems?** → [Cash Flow Forecasting](./docs/tutorials/10-cash-flow-forecasting.md)
+- **Job over budget?** → [Budget vs. Actual Reporting](./docs/tutorials/11-budget-vs-actual.md)
+- **Preparing for audit?** → [Audit Preparation Guide](./docs/compliance/03-audit-preparation.md)
+- **Something broke in QBO?** → [Troubleshooting & FAQ](./docs/reference/13-troubleshooting-faq.md)
+- **Year-end approaching?** → [Year-End Close Checklist](./docs/checklists/13-year-end-close.md)
+- **Daily tasks checklist?** → [Daily & Weekly Checklists](./docs/checklists/12-daily-weekly-checklists.md)
 
 ---
 
