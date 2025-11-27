@@ -56,14 +56,18 @@ This guide covers every aspect of construction bookkeeping:
 1. [Introduction](./docs/01-introduction.md) - Why construction accounting is different
 2. [Getting Started with QBO](./docs/02-getting-started.md) - Essential setup and configuration
 
-### QBO Basics (NEW!)
+### Setup & Structure
+- [Classes, Locations, and Tracking](./docs/setup/01-classes-locations-tracking.md) - Job/project tracking protocols
+- [Company Settings](./docs/setup/02-company-settings.md) - QBO configuration for contractors
+
+### QBO Basics
 - [Connecting Bank Accounts](./docs/basics/01-connecting-bank-accounts.md) - Step-by-step bank linking and feeds
 - [Connecting Credit Cards](./docs/basics/02-connecting-credit-cards.md) - Credit card setup and management
 - [Recording Transactions](./docs/basics/03-recording-transactions.md) - Bills, invoices, payments, and journal entries
 - [Vendor Setup & AP Management](./docs/basics/04-vendor-setup-ap.md) - Complete vendor and AP workflows
 - [Invoice Tie-Out & Reconciliation](./docs/basics/05-invoice-tieout.md) - Matching invoices to pay apps
 
-### Core Tutorials
+### Core Tutorials (Job Costing & Revenue Recognition)
 3. [Job Costing Setup](./docs/tutorials/03-job-costing-setup.md) - Track every dollar by project
 4. [WIP Schedules](./docs/tutorials/04-wip-schedules.md) - Percentage-of-completion and over/under billing
 5. [Progress Billing](./docs/tutorials/05-progress-billing.md) - AIA forms and applications for payment
@@ -71,11 +75,30 @@ This guide covers every aspect of construction bookkeeping:
 7. [Equipment Allocation](./docs/tutorials/07-equipment-allocation.md) - Internal equipment charges to jobs
 8. [Change Order Management](./docs/tutorials/08-change-orders.md) - Track contract modifications
 
+### Transactions & Workflows
+- [Purchase Orders & Three-Way Matching](./docs/workflows/01-purchase-orders.md) - PO workflows and verification
+- [Subcontractor Management, 1099s & Lien Waivers](./docs/workflows/02-subcontractor-1099-lien-waivers.md) - Complete sub compliance
+- [Time Tracking & Payroll Integration](./docs/workflows/03-time-tracking-payroll.md) - Labor costing workflows
+- [Equipment Capitalization vs Expensing](./docs/workflows/04-equipment-capitalization.md) - Fixed asset decisions
+
+### Reporting & Analysis
+- [Essential Reports](./docs/reporting/01-essential-reports.md) - Job profitability, financials, KPIs, trial balance, general ledger
+
+### Integrations & Ecosystem
+- [Construction Software Integrations](./docs/integrations/01-construction-integrations.md) - Procore, Buildertrend, TSheets, and more
+
+### Security, Roles & Audit
+- [User Roles & Permissions](./docs/security/01-user-roles-permissions.md) - Access controls and audit trail
+
 ### Templates & Reference
 9. [Chart of Accounts Templates](./docs/templates/09-chart-of-accounts.md) - Ready-to-use COA structures
-10. [Common Mistakes](./docs/reference/10-common-mistakes.md) - Learn from others' errors
-11. [Month-End Close Checklist](./docs/checklists/11-month-end-close.md) - Complete closing process
-12. [GAAP Principles Reference](./docs/reference/12-gaap-principles.md) - Accounting standards explained
+10. [Common Mistakes](./docs/reference/10-common-mistakes.md) - Learn from others' errors (22 frequent errors!)
+11. [Month-End Close Checklist](./docs/checklists/11-month-end-close.md) - 10-day close calendar
+12. [GAAP Principles Reference](./docs/reference/12-gaap-principles.md) - ASC 606, matching principle explained
+
+### Resources
+- [Construction Accounting Glossary](./docs/resources/01-glossary.md) - Terms and definitions
+- [Migration Tips (Desktop to QBO)](./docs/resources/02-migration-tips.md) - Conversion guide and pitfalls
 
 ---
 
