@@ -1,14 +1,30 @@
 # CJCPAs Construction Accounting QBO Mastery
 
-## The Ultimate Guide to Construction Bookkeeping in QuickBooks Online
+> ⚠️ **IMPORTANT: Please Read Before Using This Resource**
+>
+> This guide is for **informational and educational purposes only** and does not constitute professional accounting, tax, legal, or financial advice. The information may not be complete or current, and accounting standards, tax laws, and regulations change frequently. **Always consult with a qualified CPA, tax professional, or attorney** before making decisions about your specific situation. See the [full disclaimer](#%EF%B8%8F-important-disclaimer) below.
 
-Welcome to the most comprehensive guide for construction accounting in QuickBooks Online. This resource is designed for contractors, bookkeepers, and accountants who need to master the unique challenges of construction financial management.
+---
+
+## 🌐 Open Source & Community-Driven
+
+**A comprehensive, community-driven resource for construction accounting in QuickBooks Online** — covering job costing, WIP schedules, progress billing, retention tracking, and more.
+
+We believe accurate construction accounting knowledge should be accessible to everyone. This is an **open source project** and we welcome contributions, corrections, and improvements from the community. If you find an error or have expertise to share, please contribute! Together, we can make this resource better for everyone.
+
+**Found an issue?** [Open an issue](../../issues) or submit a pull request.
+
+---
+
+## A Comprehensive Guide to Construction Bookkeeping in QuickBooks Online
+
+Welcome to a comprehensive guide for construction accounting in QuickBooks Online. This resource is designed for contractors, bookkeepers, and accountants who need to master the unique challenges of construction financial management.
 
 ---
 
 ## 🏗️ What You'll Learn
 
-This guide covers every aspect of construction bookkeeping:
+This guide covers key topics in construction bookkeeping, including:
 
 - **Job Costing** - Track labor, materials, subs, and equipment by project
 - **WIP Schedules** - Calculate percentage-of-completion and earned revenue
@@ -207,10 +223,34 @@ This guide is designed with the philosophy that **every HOW links to a WHY**. Yo
 
 ## 📞 Need Help?
 
-This guide is comprehensive, but construction accounting can be complex. If you need additional support:
+This guide is detailed, but construction accounting can be complex. If you need additional support:
 - Review the [Common Mistakes](./docs/reference/10-common-mistakes.md) chapter first
 - Check the [GAAP Principles Reference](./docs/reference/12-gaap-principles.md) for technical questions
 - Consider consulting with a CPA who specializes in construction accounting
+
+---
+
+## 🤝 Contributing
+
+This is a **living, open source document** maintained by the community. We welcome contributions from CPAs, construction accountants, bookkeepers, and industry professionals.
+
+### How to Contribute
+
+- **Found an error?** [Open an issue](../../issues) describing the problem
+- **Have a correction?** Submit a pull request with your fix
+- **Want to add content?** Fork the repo and submit a PR
+- **Have expertise to share?** We'd love your input on complex topics
+
+### Contribution Guidelines
+
+1. **Cite authoritative sources** when possible (ASC 606, AICPA guides, state statutes)
+2. **Be specific** about regulatory and legal references (include CFR/USC/statute numbers where applicable)
+3. **Note jurisdictional differences** when rules vary by state or locality
+4. **Avoid overclaiming** — acknowledge limitations and edge cases
+5. **Keep the tone** educational and accessible to non-accountants
+6. **Verify accuracy** — double-check calculations, account numbers, and procedures
+
+**Together, we can make construction accounting knowledge accessible and accurate for everyone.**
 
 ---
 
@@ -222,25 +262,39 @@ The information contained in this guide, including all tutorials, templates, exa
 
 ### Please Note:
 
-1. **Not Professional Advice**: This guide is not a substitute for professional accounting, tax, or legal counsel. Every business situation is unique, and the information provided here may not be appropriate for your specific circumstances.
+**Not Professional Advice:** This guide is not a substitute for professional accounting, tax, or legal counsel. Every business situation is unique, and the information provided here may not be appropriate for your specific circumstances. Construction accounting involves complex areas including revenue recognition under ASC 606, percentage-of-completion accounting, and job costing methodologies that require professional judgment.
 
-2. **No CPA-Client Relationship**: Reading, using, or relying on this guide does not create a CPA-client, attorney-client, or any other professional relationship between you and the author(s) or publisher(s) of this content.
+**No CPA-Client Relationship:** Reading, using, or relying on this guide does not create a CPA-client, attorney-client, or any other professional relationship between you and the author(s) or publisher(s) of this content.
 
-3. **Verify with Professionals**: Before implementing any accounting methods, chart of accounts structures, job costing procedures, WIP schedules, or other financial practices described in this guide, you should consult with a qualified Certified Public Accountant (CPA), tax professional, or attorney who is familiar with your specific business situation and applicable laws.
+**Verify with Professionals:** Before implementing any accounting methods, chart of accounts structures, job costing procedures, WIP schedules, or other financial practices described in this guide, you should consult with qualified professionals including:
+- A Certified Public Accountant (CPA) with construction industry experience
+- A tax professional familiar with contractor tax obligations
+- An attorney for lien law, contract, and compliance matters
+- A surety bond professional for bonding capacity questions
 
-4. **Accuracy Not Guaranteed**: While every effort has been made to ensure the accuracy and completeness of the information in this guide, accounting standards (GAAP), tax laws, and software features change frequently. The author(s) make no guarantees that the information is current, complete, or error-free.
+**Accuracy Not Guaranteed:** While every effort has been made to ensure accuracy, accounting standards (GAAP/ASC 606), tax laws, lien statutes, and software features change frequently. The author(s) and contributors make no guarantees that the information is current, complete, or error-free. Even authoritative sources like the AICPA Audit and Accounting Guide for Construction Contractors cannot cover every detail—neither can this guide.
 
-5. **Software Changes**: QuickBooks Online is a third-party software product that is updated frequently. Screenshots, features, menu locations, and workflows described in this guide may differ from the current version of the software. Always refer to official Intuit/QuickBooks documentation for the most current information.
+**Open Source Disclaimer:** This is a community-driven, open source project. While we welcome contributions and strive for accuracy, content is provided by various contributors and may contain errors. Always verify critical information with authoritative sources such as the Financial Accounting Standards Board (FASB), your state's contractor licensing board, or a qualified professional.
 
-6. **State and Local Variations**: Construction accounting requirements, lien laws, retention rules, and tax obligations vary significantly by state, county, and municipality. This guide provides general guidance and may not address requirements specific to your jurisdiction.
+**Software Changes:** QuickBooks Online is a third-party software product that is updated frequently. Screenshots, features, menu locations, and workflows described in this guide may differ from the current version of the software. Always refer to official Intuit/QuickBooks documentation for the most current information.
 
-7. **Limitation of Liability**: In no event shall the author(s), publisher(s), or contributors be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of or reliance on this guide.
+**State and Local Variations:** Construction accounting requirements, lien laws, retention rules, prevailing wage requirements, and tax obligations vary significantly by state, county, and municipality. This guide provides general guidance and may not address requirements specific to your jurisdiction. Always verify requirements with your state contractor licensing board and local authorities.
 
-8. **Your Responsibility**: You are solely responsible for determining whether the information in this guide is appropriate for your situation and for any actions you take based on this information.
+**Regulatory References:** Construction accounting is governed by various standards and regulations including:
+- **ASC 606** (Revenue from Contracts with Customers) - FASB standard for revenue recognition
+- **ASC 340-40** (Other Assets and Deferred Costs—Contracts with Customers)
+- **AICPA Audit and Accounting Guide: Construction Contractors**
+- **State-specific contractor licensing laws and lien statutes**
+- **Davis-Bacon Act** (for federal prevailing wage requirements)
+- **State prevailing wage laws** (vary by jurisdiction)
+
+**Limitation of Liability:** In no event shall the author(s), publisher(s), or contributors be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of or reliance on this guide.
+
+**Your Responsibility:** You are solely responsible for determining whether the information in this guide is appropriate for your situation and for any actions you take based on this information.
 
 **BY USING THIS GUIDE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO THIS DISCLAIMER.**
 
-*If you need professional assistance with your construction accounting, please consult with a licensed CPA or accounting professional in your area.*
+*If you need professional assistance with your construction accounting, please consult with a licensed CPA who specializes in construction accounting, a construction attorney, or other qualified professional in your area.*
 
 ---
 ## 📖 Start Learning
